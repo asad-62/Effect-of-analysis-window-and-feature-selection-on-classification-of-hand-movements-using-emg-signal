@@ -3,7 +3,7 @@ This is the code for the paper "Effect of Analysis Window and Feature Selection 
 The first file "preprocessing_data_and_Extracting_fearures" preprocess the signal and extract the features and the second file "Code_for_shuffling_test_train_split" appends the 
 true vale against the corresponding features values and then shuffles the feature values into test train split according to repetitions. 
 
-The data from the dataset [1] is fed to the first code which will extract all the features. 
+The data from the dataset [1] is fed to the first code which will extract all the features. These extracted features are then used by the second script "Code_for_shuffling_test_train_split" whose output can then to deployed to classifier.   
 
 The research paper can be find at https://doi.org/10.1007/978-3-030-55190-2_30
 
